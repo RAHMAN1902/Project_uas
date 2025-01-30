@@ -28,7 +28,7 @@
         <li class="relative group">
             <a href="mata-pelajaran.php"
                 class="flex items-center justify-between py-2 px-4 bg-sky-950 rounded hover:bg-sky-500">
-                Mata Kuliah
+                Mata Pelajaran
             </a>
 
         </li>
